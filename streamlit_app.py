@@ -25,7 +25,7 @@ st.write(1234)
 
 #Example 3
 
-df = pd.Dataframe({
+df = pd.DataFrame({
     'first column': [1, 2, 3, 4],
     'second column': [10, 20, 30, 40]
     })
@@ -33,11 +33,11 @@ st.write(df)
 
 #Example 4
 
-st.write('Below is a Dataframe:', df, 'Above is a Dataframe.')
+st.write('Below is a DataFrame:', df, 'Above is a DataFrame.')
 
 #Example 5
 
-df2 = pd.Dataframe(
+df2 = pd.DataFrame(
     np.random.randn(200, 3),
     columns = ['a', 'b', 'c'])
 c = alt.Chart(df2).mark_circle().encode(
