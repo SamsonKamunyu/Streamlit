@@ -1,5 +1,5 @@
-# Streamlit
-#30DaysOfStreamlit
+# #30DaysOfStreamlit
+![image](https://user-images.githubusercontent.com/109947291/223796328-328e1a97-fbb7-48c6-b808-17a5122993b9.png)
 - Day 1 - Basic setup and installation of the Streamlit Library.
 - Day 2 - Immersion into building a streamlit app.
 - Day 3 - Adding an st.button to the app.
