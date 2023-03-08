@@ -7,3 +7,4 @@
 - Day 5 - Learning the st.write() command.
 - Day 6 - Uploading the Streamlit app to Github.
 - Day 7 - Deploying the app with Streamlit Community Cloud.
+- Day 8 - Adding a slider widget to the app.
