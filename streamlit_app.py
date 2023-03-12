@@ -53,7 +53,7 @@ st.write ('What would you like to order?')
 icecream = st.checkbox('Ice cream')
 coffee = st.checkbox('Coffee')
 cola = st.checkbox('Cola')
-tabitha = st.checkbox('Loves messy corner bed sex')
+tabitha = st.checkbox('tabitha')
 
 if icecream:
      st.write("Great! Here's some more 🍦")
@@ -65,4 +65,4 @@ if cola:
      st.write("Here you go 🥤")
 
 if tabitha:
-     st.write("Samson fuck me")
+     st.write("Loves messy corner bed sex")
