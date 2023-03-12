@@ -8,3 +8,7 @@
 - Day 6 - Uploading the Streamlit app to Github.
 - Day 7 - Deploying the app with Streamlit Community Cloud.
 - Day 8 - Adding a slider widget to the app.
+- Day 9 - 
+- Day 10 - 
+- Day 11 - 
+- Day 12 - 
