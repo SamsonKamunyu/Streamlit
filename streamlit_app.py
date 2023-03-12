@@ -43,3 +43,22 @@ df2 = pd.DataFrame(
 c = alt.Chart(df2).mark_circle().encode(
     x = 'a', y = 'b', sixe = 'c', color = 'c', tooltip = ['a', 'b', 'c'])
 st.write(c)
+
+import streamlit as st
+
+st.header('st.checkbox')
+
+st.write ('What would you like to order?')
+
+icecream = st.checkbox('Ice cream')
+coffee = st.checkbox('Coffee')
+cola = st.checkbox('Cola')
+
+if icecream:
+     st.write("Great! Here's some more 🍦")
+
+if coffee: 
+     st.write("Okay, here's some coffee ☕")
+
+if cola:
+     st.write("Here you go 🥤")
