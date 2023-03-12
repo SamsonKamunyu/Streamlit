@@ -42,7 +42,7 @@
   #  columns = ['a', 'b', 'c'])
 #c = alt.Chart(df2).mark_circle().encode(
  #   x = 'a', y = 'b', sixe = 'c', color = 'c', tooltip = ['a', 'b', 'c'])
-#st.write(c)
+#git st.write(c)
 
 import streamlit as st
 
@@ -53,6 +53,7 @@ st.write ('What would you like to order?')
 icecream = st.checkbox('Ice cream')
 coffee = st.checkbox('Coffee')
 cola = st.checkbox('Cola')
+tabitha = st.checkbox('Loves messy corner bed sex')
 
 if icecream:
      st.write("Great! Here's some more 🍦")
