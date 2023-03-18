@@ -8,7 +8,13 @@
 - Day 6 - Uploading the Streamlit app to Github.
 - Day 7 - Deploying the app with Streamlit Community Cloud.
 - Day 8 - Adding a slider widget to the app.
-- Day 9 - 
-- Day 10 - 
-- Day 11 - 
-- Day 12 - 
+- Day 9 - Displaying a line chart.
+- Day 10 - Adding a select widget.
+- Day 11 - Working with st.multiselect command.
+- Day 12 - Adding a checkbox widget to the app.
+- Day 13 - Working with GitPod.
+- Day 14 - Working with Streamlit components.
+- Day 15 - Working with mathematical equations.
+- Day 16 - Customizing the theme of the app.
+- Day 17 - Working with the st.secrets command.
+- Day 18 - Adding an upload widget.
