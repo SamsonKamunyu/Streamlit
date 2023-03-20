@@ -160,7 +160,7 @@ with st.expander('About this app'):
 st.sidebar.header('Input')
 user_name = st.sidebar.text_input('What is your name?')
 user_emoji = st.sidebar.selectbox('Choose an emoji', ['', '😄', '😆', '😊', '😍', '😴', '😕', '😱'])
-user_food = st.sidebar.selectbox('What is your favorite food?', ['', 'Tom Yum Kung', 'Burrito', 'Lasagna', 'Hamburger', 'Pizza'])
+user_food = st.sidebar.selectbox('What is your favorite food?', ['', 'Nyama Choma', 'Mukimo', 'Ugali Sukuma', 'Samaki', 'Ratish'])
 
 st.header('Output')
 
