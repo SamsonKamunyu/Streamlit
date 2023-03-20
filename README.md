@@ -18,3 +18,5 @@
 - Day 16 - Customizing the theme of the app.
 - Day 17 - Working with the st.secrets command.
 - Day 18 - Adding an upload widget.
+- Day 19 - App layout.
+- Day 20 - Info on an upcoming Twitter Space on Streamlit.
